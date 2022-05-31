@@ -60,7 +60,7 @@ a:hover {
 }
 
 #header {
-	float: left;
+	float: left;	/*float = posicion*/
 	width: 198px;
 	height: 148px;
 	background: url(images/img1.jpg);
@@ -93,30 +93,6 @@ a:hover {
 	width: 566px;
 	height: 148px;
 	background: url(images/img2.jpg);
-	border: 1px solid #939A3C;
-}
-
-#pages2 {
-	float: right;
-	width: 566px;
-	height: 410px;
-	background: url(images/tabla.jpeg);
-	border: 1px solid #939A3C;
-}
-
-#pages3 {
-	float: right;
-	width: 566px;
-	height: 280px;
-	background: url(images/metodologia.jpeg);
-	border: 1px solid #939A3C;
-}
-
-#pages4 {
-	float: right;
-	width: 566px;
-	height: 450px;
-	background: url(images/bpmn.jpeg);
 	border: 1px solid #939A3C;
 }
 
